@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/andreefeelip29" target="blank"><img src="https://img.shields.io/twitter/follow/andreefeelip29?logo=twitter&style=for-the-badge" alt="andreefeelip29" /></a> </p>
 
-- 🔭 I’m currently working on **Softcaribbean**
+- 🔭 I’m currently working on **NEORIS**
 
-- 🌱 I’m currently learning **Kubernetes**
+- 🌱 I’m currently learning **Architectural Patterns**
 
 - 👯 I’m looking to collaborate on **Java Porjects**
 
@@ -21,9 +21,9 @@
 
 - 📫 How to reach me **andreefeelip29@gmail.com**
 
-- 📄 Know about my experiences [Two year for developer Full-Stack](Two year for developer Full-Stack)
+- 📄 Know about my experiences [Three year for developer Full-Stack](Two year for developer Full-Stack)
 
-- ⚡ Fun fact **Very funny, I like pets, I have two dogs one named scarlett and one named bengi.**
+- ⚡ Fun fact **Very funny, I like pets, I had a little dog that I loved called Bengi, but he is no longer with me, now he is a little angel in heaven.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

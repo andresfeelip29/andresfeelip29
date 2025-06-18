@@ -19,9 +19,9 @@
 
 - 💬 Ask me about **java developer, work with Angular 15, functional programming, reactive programming with webflux, Docker**
 
-- 📫 How to reach me **andreefeelip29@gmail.com**
+- 📫 How to reach me **afpoloperez@gmail.com**
 
-- 📄 Know about my experiences [Three year for developer Full-Stack](Two year for developer Full-Stack)
+- 📄 Know about my experiences [Four year for developer Full-Stack](One year for developer Full-Stack)
 
 - ⚡ Fun fact **Very funny, I like pets, I had a little dog that I loved called Bengi, but he is no longer with me, now he is a little angel in heaven.**
 
